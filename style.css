@@ -1,0 +1,62 @@
+body{
+    background-image: url(/image/lakes.jpeg);
+    background-size: cover;
+    
+}
+h3{
+    font-size: 30px;
+    color: purple;
+    text-align: center;
+}
+ul{
+    background-color:white;
+    overflow: hidden;
+    font-style:normal;
+    list-style-type: none;
+
+}
+span{
+    font-size: 30px;
+    font-style:oblique;
+}
+
+li a{
+    display: block;
+    text-decoration: none;
+    color: blue;
+    font-size: 20px;
+    padding: 14px 16px;
+    text-align: center;
+}
+li{
+    float: right;
+
+}
+a:hover{
+    color: blue;
+}
+
+h1{
+    text-align: center;
+    font-size: 60px;
+    color: black;
+
+}
+h5{
+    text-align: center;
+    font-size: 20px;
+}
+button{
+    text-align: center;
+    background-color: transparent;
+    font-size: 30px;
+    
+}
+    
+    
+
+
+
+
+
+
